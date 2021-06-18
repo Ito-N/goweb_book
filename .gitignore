@@ -1,1 +1,3 @@
 docker/postgresql/.env
+public/.DS_Store
+.idea/
